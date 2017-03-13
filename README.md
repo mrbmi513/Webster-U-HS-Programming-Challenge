@@ -133,7 +133,7 @@ Each team will be given:
 + Do not use drive and/or path specifications when naming input files. If a problem indicates that the input file is named file.in, then you must open file.in and not a:file.in or c:\stuff\file.in or anything else. Violating this rule will result in a Submission Error.
 + All test cases used in judging will conform to the input specifications, as stated in the problem description. It is not necessary for you to detect invalid input.
 + Input data and correct output data will obey the following rules.
-Other than end-of-line characters, spaces are the only whitespace that appear.
+ + Other than end-of-line characters, spaces are the only whitespace that appear.
  + Two or more consecutive spaces do not appear, unless specifically mentioned in the problem statement.
  + Spaces do not appear at the end of lines.
  + Spaces do not appear at the beginning of lines, unless specifically mentioned in the problem statement.
