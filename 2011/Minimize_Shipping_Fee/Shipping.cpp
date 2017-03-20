@@ -7,7 +7,7 @@ void calcLine();
 ifstream fin;
 
 int main(){
-	fin.open("shipping.dat");
+	fin.open("Shipping.dat");
 	int num;
 	fin >> num;
 	fin.ignore(80, '\n');

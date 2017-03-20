@@ -6,7 +6,7 @@ using namespace std;
 int main(){
 
 	ifstream fin;
-	fin.open("sudoku.dat");
+	fin.open("Sudoku.dat");
 	int numLines;
 	fin >> numLines;
 	//cout << "NUM: " << numLines << endl << endl;

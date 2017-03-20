@@ -10,7 +10,7 @@ bool isInCoverage(int, int, int);
 void solveCoverage();
 
 int main(){
-	fin.open("ipt.txt");
+	fin.open("coverage.in");
 	int numData;
 	fin >> numData;
 	fin.ignore(80, '\n');

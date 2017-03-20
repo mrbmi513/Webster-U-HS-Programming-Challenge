@@ -1,12 +1,3 @@
-# A Few Quick Notes
-Silly me didn't copy the problems from my school's CS file server, so I don't have reference to them as I start to compile this repository. As such...
-<ul>
-<li>Actual problem text will be added once I have access to them again.</li>
-<li>Directory names may be adjusted to match the actual name of each problem.</li>
-<li>Solutions currently posted may not follow competition guidelines for file naming. Those will be corrected soon.</li>
-</ul>
-
-*This part of the README will be removed once I have access to the problems again.*
 # Webster-U-HS-Programming-Challenge
 Solutions to previous Webster University High School Programming Challenge problems
 ## Disclaimer

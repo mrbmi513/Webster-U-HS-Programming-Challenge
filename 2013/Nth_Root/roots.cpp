@@ -10,7 +10,7 @@ bool isEOF();
 void tableMe();
 
 int main(){
-	fin.open("ipt.txt");
+	fin.open("roots.in");
 	cout << setprecision(2) << fixed << showpoint;
 	while(!isEOF())
 		tableMe();

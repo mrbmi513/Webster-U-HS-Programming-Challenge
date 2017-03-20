@@ -9,7 +9,7 @@ void solvePhone();
 
 
 int main(){
-	fin.open("ipt.txt");
+	fin.open("cdma.in");
 	while(!isEOF())
 		solvePhone();
 	fin.close();

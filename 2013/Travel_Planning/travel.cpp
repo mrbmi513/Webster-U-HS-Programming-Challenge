@@ -16,7 +16,7 @@ void solve_menu(int);
 
 ifstream fin;
 int main(){
-	fin.open("ipt.txt");
+	fin.open("travel.in");
 
 	int menu;
 	fin >> menu;
