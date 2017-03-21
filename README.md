@@ -1,7 +1,7 @@
 # Webster-U-HS-Programming-Challenge
 Solutions to previous Webster University High School Programming Challenge problems
 ## Disclaimer
-These solutions are in no way affiliated with Webster University nor the HS Programming Challenge.
+These solutions are mine and are in no way affiliated with Webster University nor the HS Programming Challenge.
 ## Table of Contents
 + [About the Challenge](#about-the-webster-university-high-school-programming-challenge)
 + [Let's Talk About Errors!](#lets-talk-about-errors)
