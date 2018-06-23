@@ -1,5 +1,5 @@
 # Webster-U-HS-Programming-Challenge
-Solutions to previous Webster University High School Programming Challenge problems
+Solutions to previous Webster University High School Programming Challenge problems in preparation for the 2017 competition.
 ## Disclaimer
 These solutions are mine and are in no way affiliated with Webster University nor the HS Programming Challenge.
 ## Table of Contents
